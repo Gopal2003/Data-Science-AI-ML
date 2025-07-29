@@ -26,7 +26,7 @@ virtual_env\Scripts\activate
 ```
 
 
-## 3. Using `Conda` Command
+## 3. ✅  Using `Conda` Command
 
 ```bash
 
@@ -36,4 +36,5 @@ conda create -p ./venv python==3.10 -y
 # Activate the environment
 conda activate ./venv
 
+test
 ```
