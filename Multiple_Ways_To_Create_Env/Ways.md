@@ -36,5 +36,4 @@ conda create -p ./venv python==3.10 -y
 # Activate the environment
 conda activate ./venv
 
-test
 ```
