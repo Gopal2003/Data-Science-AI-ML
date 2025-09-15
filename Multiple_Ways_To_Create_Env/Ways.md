@@ -21,14 +21,16 @@ folder_name\Scripts\activate
 # Create a virtual environment using virtualenv
 virtualenv -p python3 virtual_env
 
-# Activate the environment (Windows)
+# Activate the enviornment (Windows)
 virtual_env\Scripts\activate
 ```
 
 
-## 3. ✅  Using `Conda` Command
+## 3. ✅  Using `Conda` Command in "Command prompt"
 
 ```bash
+
+# Make sure that virtual environment is active
 
 # Create a virtual environment using conda
 conda create -p ./venv python==3.10 -y
