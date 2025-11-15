@@ -4,3 +4,4 @@ panda
 bs4
 flask
 streamlit
+openpyxl
